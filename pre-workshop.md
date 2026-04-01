@@ -11,7 +11,10 @@ This workshop is primarily hands-on with *QGIS* in order to learn to use key fea
 (Note: If you are a staff member at UVic and are wanting to install software on a work computer, you may require system admin permission to do so.)
 
 **It is highly recommended to:**
-- **Complete [Introduction to QGIS with Vector Data](https://uviclibraries.github.io/qgis-vector), [Introduction to QGIS with Raster Data](https://uviclibraries.github.io/qgis-raster), [Edit Vector Data with QGIS](https://uviclibraries.github.io/qgis-editvector)**
+- **Complete:**
+  - [Introduction to QGIS with Vector Data](https://uviclibraries.github.io/qgis-vector)
+  - [Introduction to QGIS with Raster Data](https://uviclibraries.github.io/qgis-raster)
+  - [Edit Vector Data with QGIS](https://uviclibraries.github.io/qgis-editvector)
 - **Use a second monitor or print out the workshop activities**
 - **Use mouse with a scroll wheel**
 

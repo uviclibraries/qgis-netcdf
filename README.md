@@ -1,4 +1,4 @@
-# QGIS NetCDF
+# Intro to QGIS with NetCDF
 ### UVic Libraries Digital Scholarship Commmons
 
 Link to workshop: https://uviclibraries.github.io/qgis-netcdf/

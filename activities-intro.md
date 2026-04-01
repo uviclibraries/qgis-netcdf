@@ -12,4 +12,4 @@ Please review the following <a href="images/QGIS_NetCDF_WorkshopIntroductorySlid
 
 [Download](images/QGIS_NetCDFWorkshopData.zip){:target="_blank"} workshop data
 
-[NEXT STEP: Workshop Exercise](Activity1.html){: .btn .btn-blue }
+[NEXT STEP: Workshop Exercise](Activity.html){: .btn .btn-blue }

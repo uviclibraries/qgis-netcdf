@@ -6,7 +6,7 @@ parent: Workshop Activities
 ---
 # Hands-On Activities Introduction
 <img src="images/qgis-logo.png" style="float:right;width:180px;">
-Please review the following <a href="images/NetCDF_WorkshopIntroductorySlides.pdf" target="_blank">
+Please review the following <a href="images/QGIS_NetCDF_WorkshopIntroductorySlides.pdf" target="_blank">
   Introductory Slides
 </a>
 

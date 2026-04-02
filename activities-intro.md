@@ -10,6 +10,6 @@ Please review the following <a href="images/QGIS_NetCDF_WorkshopIntroductorySlid
   Introductory Slides
 </a>
 
-[Download](images/QGIS_NetCDFWorkshopData.zip){:target="_blank"} workshop data
+[Download](images/QGIS_NetCDF_WorkshopData.zip){:target="_blank"} workshop data
 
 [NEXT STEP: Workshop Exercise](Activity.html){: .btn .btn-blue }

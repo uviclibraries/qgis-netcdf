@@ -14,7 +14,6 @@ This workshop is primarily hands-on with *QGIS* in order to learn to use key fea
 - **Complete:**
   - [Introduction to QGIS with Vector Data](https://uviclibraries.github.io/qgis-vector)
   - [Introduction to QGIS with Raster Data](https://uviclibraries.github.io/qgis-raster)
-  - [Edit Vector Data with QGIS](https://uviclibraries.github.io/qgis-editvector)
 - **Use a second monitor or print out the workshop activities**
 - **Use mouse with a scroll wheel**
 
